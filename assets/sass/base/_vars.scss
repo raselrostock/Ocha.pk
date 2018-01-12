@@ -1,0 +1,37 @@
+//Font
+@font-face {
+    font-family: 'Myriad Pro';
+    src: 
+         url('../font/Myriad-Pro.ttf') format('truetype'),
+}
+@font-face {
+    font-family: 'Myriad Bold';
+    src: 
+         url('../font/Myriad-Pro-Bold.ttf') format('truetype'),
+}
+@font-face {
+    font-family: 'Myriad Light';
+    src: 
+         url('../font/Open_Sans/Myriad-Pro-Light.ttf') format('truetype'),
+}
+// Colors
+ 
+ $lightG 		:#3BA992;
+ $vlightG 		:#82D9C7;
+
+ //Font colors
+ $fdarkV 		: #0A1D39;
+ $fwhite		: #f6f4ea;
+ $fproduct		: rgb(57,29,10);
+ $fcolor		: rgb(57,29,10);
+
+ //Body Colors
+ $bgColor		:#faf9f4;
+ $parrot		:rgb(199,217,130);
+ $darkG 		:#0a331a;
+ $dparrot		:rgb(166,189,77);	
+ $ordgreen		:#0C4222;	
+
+ $space			:8%;
+ $mspace		:4%;
+ $smspace		:6%;
